@@ -5,3 +5,4 @@ I'm doing my studies by the excelent tutorials made by
 www.freecodecamp.org
 
 The first one made was the Cat Photo App.
+The second one is a cafe menu.
