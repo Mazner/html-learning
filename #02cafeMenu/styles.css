@@ -63,7 +63,7 @@ body {
   }
   
   /* FOOTER */
-  
+
   footer {
     font-size: 14px;
   }
@@ -83,3 +83,13 @@ body {
   a:active {
     color: brown;
   }
+
+.address{
+  margin-bottom: 5px;
+}
+img {
+  margin-top: -25;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
